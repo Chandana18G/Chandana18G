@@ -269,19 +269,6 @@ Operational excellence in a high-velocity quick-commerce environment, developing
 
 ---
 
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Chandana18G-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Chandana18G-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Chandana18G-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Chandana18G-4C1D95?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
