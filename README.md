@@ -377,7 +377,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-chamdanachandu8428%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamdanachandu8428@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandanagurusiddappa-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/chandanagurusiddappa](https://www.linkedin.com/in/chandana-gurusiddappa-785563223/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandanagurusiddappa-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chandana-gurusiddappa-785563223])
 [![GitHub](https://img.shields.io/badge/GitHub-Chandana18G-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandana18G)
 [![Location](https://img.shields.io/badge/Based%20In-Regensburg%2C%20Bavaria%2C%20Germany-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Regensburg,Germany)
 
