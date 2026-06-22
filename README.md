@@ -305,6 +305,7 @@ Operational excellence in a high-velocity quick-commerce environment, developing
 
 </div>
 
+
 ---
 
 ## ◈ Contribution Snake
