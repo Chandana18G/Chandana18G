@@ -23,6 +23,7 @@ GenAI, in Regensburg or remote: up to 20 h/week during the semester, full-time i
 | [**Document Q&A Assistant (RAG)**](https://github.com/Chandana18G/document-qa-digital-assistant) <br><sub>Jul 2026</sub> | Answers questions about your own PDFs and notes, grounded in retrieved passages, with sources. OpenAI or a free local LLM. | sentence-transformers + FAISS · Streamlit UI · runs at zero cost |
 | [**NLP News Intelligence**](https://github.com/Chandana18G/nlp-news-intelligence) <br><sub>Jun 2026</sub> | Classical NLP vs. Sentence-BERT vs. LDA on 127,600 AG News articles: classification, semantic search, topic discovery. | **91.2%** accuracy · semantic search **P@5 0.844** vs. 0.776 keyword |
 | **MeetingBank NLP** <br><sub>M.Sc. project · May 2026</sub> | ETL + NLP pipeline over city-council meeting transcripts: spaCy NER, DistilBERT sentiment, LDA topics. | Hybrid PostgreSQL + MongoDB design · SQL analyses of sentiment, entities and topics per city |
+| [**Energy Market Analyst Assistant**](https://chandana18g.github.io/projects/energy-market-analyst-assistant/) <br><sub>Planned</sub> | An AI assistant that helps analysts explore and explain energy-market data in plain language. | GenAI + energy-market data |
 
 ### Machine learning, health & forecasting
 
@@ -32,6 +33,13 @@ GenAI, in Regensburg or remote: up to 20 h/week during the semester, full-time i
 | [**COVID-19 ICU & Mortality Forecasting**](https://github.com/Chandana18G/Machine-Learning) <br><sub>M.Sc. project · 2026</sub> | Forecasts ICU occupancy and deaths for 4 regions, comparing Linear, Random Forest and XGBoost with leakage-free time-series validation. | **−87% MAE** vs. linear baseline (Germany) · found the Omicron regime shift in the residuals |
 | **EMG Muscle Fatigue Classification** <br><sub>M.Sc. project · Apr 2026</sub> | sEMG signal processing + ML for subject-independent fatigue detection: 9,540 windows from 14 participants, time- and frequency-domain features. | Leave-one-subject-out validation · mean F1 0.416, with inter-subject variability reported honestly |
 | [**Gut Transit in ICU Trauma Patients (Biostatistics)**](https://github.com/Chandana18G/rauch2012-statistical-replication) <br><sub>M.Sc. project · Mar 2026</sub> | Statistical replication of Rauch et al. (2012): SmartPill capsule transit times in 8 ventilated trauma patients vs 87 healthy volunteers. | Gastric emptying **4.5× slower** (13.9 h vs 3.0 h, Mann–Whitney p < .001) · χ²/Fisher, ANOVA, distribution fitting · showed Pearson vs Spearman changes the conclusion |
+| [**German Electricity Price Forecasting**](https://chandana18g.github.io/projects/german-electricity-price-forecasting/) <br><sub>Time-series project</sub> | Forecasting German electricity prices from public market data on SMARD, the Federal Network Agency's energy-market platform. | Public SMARD data (Bundesnetzagentur) · time-series forecasting |
+
+### Data analytics & BI
+
+| Project | What it does | Highlights |
+|---|---|---|
+| [**EU Safety Gate Motor Vehicle Recalls Dashboard**](https://chandana18g.github.io/projects/eu-safety-gate-vehicle-recalls-dashboard/) | Interactive Power BI dashboard analysing motor-vehicle recall alerts from the EU Safety Gate rapid alert system. | Power BI · public EU Safety Gate alert data |
 
 More write-ups on my [portfolio](https://chandana18g.github.io/projects/).
 
