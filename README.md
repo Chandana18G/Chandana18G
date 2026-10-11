@@ -39,7 +39,7 @@ GenAI, in Regensburg or remote: up to 20 h/week during the semester, full-time i
 
 | Project | What it does | Highlights |
 |---|---|---|
-| [**EU Safety Gate Motor Vehicle Recalls Dashboard**](https://chandana18g.github.io/projects/eu-safety-gate-vehicle-recalls-dashboard/) | Interactive Power BI dashboard analysing motor-vehicle recall alerts from the EU Safety Gate rapid alert system. | Power BI · public EU Safety Gate alert data |
+| [**EU Safety Gate Motor Vehicle Recalls Dashboard**](https://github.com/Chandana18G/eu-safety-gate-recalls-dashboard) <br><sub>Oct 2026</sub> | Power BI dashboard on 4,184 motor-vehicle recall alerts from the EU Safety Gate system (2016–2026): brands, components, hazards and the countries affected. | Every card **matches an independent Python recount** · 9 data issues found and fixed · Power Query, DAX |
 
 More write-ups on my [portfolio](https://chandana18g.github.io/projects/).
 
