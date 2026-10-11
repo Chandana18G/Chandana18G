@@ -1,4 +1,4 @@
-# Hi, I'm Chandana 👋
+# Hi, I'm Chandana Gurusiddappa 👋
 
 M.Sc. student in **Applied Data Science & AI** at SRH University, based in **Regensburg, Germany**.
 I build machine-learning systems end to end: from messy public data to a model that is honestly
