@@ -8,7 +8,7 @@ evaluated and a tool someone can use.
 GenAI, in Regensburg or remote: up to 20 h/week during the semester, full-time in semester breaks.
 
 [Portfolio](https://chandana18g.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/chandana-gurusiddappa-785563223/) ·
+[LinkedIn](https://www.linkedin.com/in/chandana-gurusiddappa/) ·
 [Email](mailto:Chanduu4055@gmail.com)
 
 ---
