@@ -55,7 +55,7 @@ More write-ups on my [portfolio](https://chandana18g.github.io/projects/).
 - **Data Science Intern**, TechnoTut, Mysuru, India (Feb – May 2025)
   Built and evaluated supervised and unsupervised ML models in Python; presented results to
   technical and non-technical stakeholders.
-- **Data Analysis Trainee**, SPORTS-KPI, India (Sep – Oct 2023)
+- **Data Analysis Trainee**, SPORTS-KPI, India (Sep – Dec 2024)
   Built KPI dashboards and reports for football and kabaddi match data.
 
 ## Education
