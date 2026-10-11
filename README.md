@@ -19,18 +19,18 @@ GenAI, in Regensburg or remote: up to 20 h/week during the semester, full-time i
 
 | Project | What it does | Highlights |
 |---|---|---|
-| [**Motor Insurance Claims Copilot**](https://github.com/Chandana18G/motor-claims-copilot) <br><sub>M.Sc. group project · Jun 2026</sub> | Audit-safe GenAI copilot for motor insurance claims: schema-constrained extraction, policy-scoped hybrid retrieval (BM25 + dense) and deterministic rule engines. | Human-in-the-loop (the AI never decides) · abstains on conflicting evidence · source-span citation checks · hash-chained audit log · 8-stage evaluation incl. prompt injection & fairness |
 | [**Document Q&A Assistant (RAG)**](https://github.com/Chandana18G/document-qa-digital-assistant) <br><sub>Oct 2026</sub> | Answers questions about your own PDFs and notes from the passages it retrieves, cites them, and refuses to guess. Claude, OpenAI, Ollama or a free local LLM. | Evaluated on 1,000 SQuAD 2.0 questions: right passage ranked 1st for **88%** (hybrid BM25 + FAISS + cross-encoder re-ranking) · refuses **93%** of off-topic questions · 3 bugs found by its own evaluation · 22 unit tests |
 | [**NLP News Intelligence**](https://github.com/Chandana18G/nlp-news-intelligence) <br><sub>Jun 2026</sub> | Classical NLP vs. Sentence-BERT vs. LDA on 127,600 AG News articles: classification, semantic search, topic discovery. | **91.2%** accuracy · semantic search **P@5 0.844** vs. 0.776 keyword |
+| [**Motor Insurance Claims Copilot**](https://github.com/Chandana18G/motor-claims-copilot) <br><sub>M.Sc. group project · Jun 2026</sub> | Audit-safe GenAI copilot for motor insurance claims: schema-constrained extraction, policy-scoped hybrid retrieval (BM25 + dense) and deterministic rule engines. | Human-in-the-loop (the AI never decides) · abstains on conflicting evidence · source-span citation checks · hash-chained audit log · 8-stage evaluation incl. prompt injection & fairness |
 
 ### Machine learning, health & forecasting
 
 | Project | What it does | Highlights |
 |---|---|---|
-| [**COVID-19 ICU & Mortality Forecasting**](https://github.com/Chandana18G/covid-icu-mortality-forecasting) <br><sub>M.Sc. project · 2026</sub> | Forecasts ICU occupancy and deaths for 4 regions, comparing Linear, Random Forest and XGBoost with leakage-free time-series validation. | **−87% MAE** vs. linear baseline (Germany) · found the Omicron regime shift in the residuals |
-| [**EMG Muscle Fatigue Classification**](https://github.com/Chandana18G/emg-muscle-fatigue-classification) <br><sub>M.Sc. project · Jun 2026</sub> | sEMG signal processing + ML for fatigue detection in unseen people: 9,540 windows from 14 participants, 10 time- and frequency-domain features. | Leave-one-subject-out · mean F1 0.416 vs **0.625 for a trivial baseline**: features differ by group, but don't yet transfer across people |
-| [**Gut Transit in ICU Trauma Patients (Biostatistics)**](https://github.com/Chandana18G/rauch2012-statistical-replication) <br><sub>M.Sc. project · Mar 2026</sub> | Statistical replication of Rauch et al. (2012): SmartPill capsule transit times in 8 ventilated trauma patients vs 87 healthy volunteers. | Gastric emptying **4.5× slower** (13.9 h vs 3.0 h, Mann–Whitney p < .001) · χ²/Fisher, ANOVA, distribution fitting · showed Pearson vs Spearman changes the conclusion |
 | [**German Electricity Price Forecasting**](https://github.com/Chandana18G/german-electricity-price-forecasting) <br><sub>Oct 2026</sub> | Forecasts tomorrow's hourly day-ahead price for Germany/Luxembourg from 8 years of public SMARD data, using only information available before the auction. | **26% lower error** than the naive forecast (MAE 22.0 vs 29.7 EUR/MWh) · 8,712-hour rolling-origin backtest · leakage tests |
+| [**COVID-19 ICU & Mortality Forecasting**](https://github.com/Chandana18G/covid-icu-mortality-forecasting) <br><sub>M.Sc. project · 2026</sub> | Forecasts ICU occupancy and deaths for 4 regions, comparing Linear, Random Forest and XGBoost with leakage-free time-series validation. | **−87% MAE** vs. linear baseline (Germany) · found the Omicron regime shift in the residuals |
+| [**Gut Transit in ICU Trauma Patients (Biostatistics)**](https://github.com/Chandana18G/rauch2012-statistical-replication) <br><sub>M.Sc. project · Mar 2026</sub> | Statistical replication of Rauch et al. (2012): SmartPill capsule transit times in 8 ventilated trauma patients vs 87 healthy volunteers. | Gastric emptying **4.5× slower** (13.9 h vs 3.0 h, Mann–Whitney p < .001) · χ²/Fisher, ANOVA, distribution fitting · showed Pearson vs Spearman changes the conclusion |
+| [**EMG Muscle Fatigue Classification**](https://github.com/Chandana18G/emg-muscle-fatigue-classification) <br><sub>M.Sc. project · Jun 2026</sub> | sEMG signal processing + ML for fatigue detection in unseen people: 9,540 windows from 14 participants, 10 time- and frequency-domain features. | Leave-one-subject-out · mean F1 0.416 vs **0.625 for a trivial baseline**: features differ by group, but don't yet transfer across people |
 
 ### Data analytics & BI
 
@@ -45,8 +45,9 @@ More write-ups on my [portfolio](https://chandana18g.github.io/projects/).
 - **Languages:** Python, SQL, Java, C, Bash
 - **Machine learning:** scikit-learn, XGBoost, time-series forecasting, model evaluation & cross-validation
 - **NLP & GenAI:** RAG, hybrid retrieval (BM25 + dense), sentence-transformers, FAISS, OpenAI API, Hugging Face Transformers, spaCy, NLTK, gensim (LDA)
-- **Data & signals:** pandas, NumPy, ETL pipelines, signal processing (sEMG)
-- **Visualisation & BI:** matplotlib, seaborn, Power BI, Tableau, Excel
+- **Data & signals:** pandas, NumPy, SciPy, ETL pipelines, signal processing (sEMG)
+- **Statistics:** statsmodels, JASP, hypothesis testing
+- **Visualisation & BI:** matplotlib, seaborn, Power BI (Power Query, DAX), Tableau, Excel
 - **Databases & tools:** PostgreSQL, MySQL, SQLite, MongoDB, Git, Docker, Linux, Jupyter, Streamlit
 
 ## Experience
